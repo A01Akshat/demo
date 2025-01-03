@@ -6,6 +6,7 @@ const App = () => {
     return(
         <>
             <Tempapp />
+            <h1>hello my name is xyz</h1>
         </>
     );
 };
